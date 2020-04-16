@@ -1,0 +1,12 @@
+{
+  "name": "event-clicker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lilvina/event-clicker.git",
+  "author": "lilvina <davinaleo2007@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "event-counter": "^0.0.1",
+    "mocha": "^7.1.1"
+  }
+}
