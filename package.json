@@ -2,11 +2,17 @@
   "name": "event-clicker",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
   "repository": "https://github.com/lilvina/event-clicker.git",
-  "author": "lilvina <davinaleo2007@yahoo.com>",
+  "author": "lilvina",
   "license": "MIT",
   "dependencies": {
     "event-counter": "^0.0.1",
-    "mocha": "^7.1.1"
+    "jest": "^25.4.0"
   }
 }
